@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "923457405525",
+    "firebase_url": "https://sufh1-d02e8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sufh1-d02e8",
+    "storage_bucket": "sufh1-d02e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923457405525:android:fe1152e13de093a06c4adc",
+        "android_client_info": {
+          "package_name": "com.example.sufh1_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_knLRKMKTyZsaL0SomjlCOHLIty4711M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
